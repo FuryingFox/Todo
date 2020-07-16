@@ -1,2 +1,5 @@
-.vscode/
-.vscode/settings.json
+.vscode
+test.db
+__pycache__
+env
+
